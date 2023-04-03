@@ -1,0 +1,8 @@
+- Hello! My name is Matt, or @mdsherrill
+- I am currently pursuing my B.S. in Computer Science with Cybersecurity Concentration (graduating December 2024).
+- Frequently using the following languages:
+  - C, C++, Java, Python, JavaScript
+- I am super interested in adopting more languages into my repertoire. Languages I'm interested in using:
+  - HTML/CSS, Git, C# (Game Development), SQL
+- I am not interested in collaborating on any new projects at the moment.
+- Point of contact is mdsherri@uark.edu
